@@ -1,4 +1,3 @@
-from PIL.ImImagePlugin import number
 
 
 def  introspection_info(obj):
